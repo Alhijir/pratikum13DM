@@ -522,4 +522,4 @@ if st.session_state.get("ai_analysis"):
 
 # ── Footer ────────────────────────────────────────────────────────────────────
 st.markdown("---")
-st.caption("Model prediksi berbasis data properti Tangerang. Hasil bersifat estimasi dan dapat berbeda dengan harga pasar aktual.") 
+st.caption("Model prediksi berbasis data properti Tangerang. Hasil bersifat estimasi dan dapat berbeda dengan harga pasar aktual.")
